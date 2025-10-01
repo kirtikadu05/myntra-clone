@@ -40,13 +40,6 @@ Here are some ideas you can work on later:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> *(Add some screenshots here by uploading image files and embedding them like this:)*
-
-
----
-
 ## ⭐ Show Some Love
 
 If you like this project, please **star the repository** and share your feedback!  
